@@ -24,4 +24,4 @@ sudo apt-get install jenkins
 4. We have a file like "/var/lib/jenkins/server_list.conf" that contains remote server IP's.
 
 5. After we done with Jenkins pipeline execution, go to main server and use this command 
-ssh -i <path of the SSH private file> ubuntu@<Ip_address>.
+- ssh -i <path of the SSH private file> ubuntu@<Ip_address>.
